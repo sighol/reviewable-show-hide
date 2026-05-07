@@ -2,6 +2,13 @@
 
 A lightweight Chrome Extension to declutter Reviewable by adding a toggle button to discussion threads.
 
+## Hide
+![hide](hide.png)
+
+## Show
+
+![show](show.png)
+
 ## Features
 - **Instant Toggling:** Adds a **toggle** link to the line number area of every discussion.
 - **Minimalist:** Collapses the discussion content (`display: none`) while keeping the context visible.
